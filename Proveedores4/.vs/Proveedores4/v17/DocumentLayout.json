@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\source\\repos\\Proveedores4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F636B89-F87F-48BF-8B5B-88EBD1459C70}|Proveedores4\\Proveedores4.csproj|c:\\users\\diego\\source\\repos\\proveedores4\\proveedores4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F636B89-F87F-48BF-8B5B-88EBD1459C70}|Proveedores4\\Proveedores4.csproj|solutionrelative:proveedores4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proveedores4\\Proveedores4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proveedores4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proveedores4\\Proveedores4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proveedores4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwCAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T19:38:21.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

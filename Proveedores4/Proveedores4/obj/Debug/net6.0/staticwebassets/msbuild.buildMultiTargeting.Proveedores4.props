@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Proveedores4.props" />
+</Project>
